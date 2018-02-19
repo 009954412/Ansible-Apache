@@ -1,3 +1,2 @@
 [hostgroup]
-host1 ansible_ssh_host=54.213.54.40 ansible_ssh_user=ec2-user
-host2 ansible_ssh_host=34.210.99.50 ansible_ssh_user=ubuntu
+host1 ansible_ssh_host=34.210.99.50 ansible_ssh_user=ubuntu
